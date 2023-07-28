@@ -96,12 +96,12 @@ export const images = [
   },
   {
     id: 20,
-    full: 'https://i.ibb.co/5sp3gRh/IMG-4011.jpg',
+    full: 'https://i.ibb.co/HHsjsfM/IMG-3972-2.jpg',
     preview: 'https://i.ibb.co/2cbMZ5y/IMG-3972-2.jpg',
   },
   {
     id: 21,
-    full: 'https://i.ibb.co/HHsjsfM/IMG-3972-2.jpg',
+    full: 'https://i.ibb.co/5sp3gRh/IMG-4011.jpg',
     preview: 'https://i.ibb.co/b5fJCKp/IMG-4011.jpg',
   },
   {
